@@ -1,4 +1,4 @@
-# poseestimationapp
+# PoseEstimationApp
 
 A new Flutter application.
 
